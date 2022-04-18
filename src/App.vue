@@ -11,7 +11,7 @@ import {useCounterStore} from './components/store/counter'
 const counterStore=useCounterStore();
 
 counterStore.$state={
-  counter: counterStore.counter + 1,
+  counter: counterStore.counter + 1, //thsuivdhfg
   name: 'Abalam',
 }
 
